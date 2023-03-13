@@ -1,0 +1,78 @@
+.one :first-child{
+ 
+ background-color: rgb(153, 43, 43); 
+ padding: 20px;  
+ 
+ 
+}
+.uu{
+    word-spacing: 100px;
+    text-align: center;
+    color: white;
+}
+p{
+
+    background-image: url("img coffe.jpg")  ;
+   height: 200px;
+}
+.tree{
+    
+    color:rgb(133, 50, 50);
+    width: 200px;
+    background-position: left;
+    background-color: rgba(255, 131, 168, 0.788);
+}
+.hh{
+    color: rgb(133, 50, 50) ;
+}
+.nn{
+    color: black;
+    background-color: aqua;
+    
+    width: 300px;
+    
+}
+.mm{
+
+    color: black;
+
+    background-color: blue;
+    width: 300px ; 
+    margin: 25px;
+}
+.bb{
+    color: black;
+    background-color: rgb(90, 90, 90);
+    width: 200px;
+    margin: 30px;
+}
+.vv{
+    color: red;
+}
+.cc{
+    color:blue
+}
+.xx{
+    color:green
+}
+.zz{
+    color:blue
+}
+.ll{
+    color: green;
+}
+.ss{
+    color:rgb(223, 136, 55)
+}
+.dd{
+    color:red
+}
+.hh{
+    color:black
+}
+.yy{
+    color:white;
+    background-color: rgb(153, 43, 43); 
+    text-align: center;
+}
+    
